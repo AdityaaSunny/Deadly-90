@@ -1,3 +1,9 @@
+//https://leetcode.com/problems/power-of-two/description/
+
+            //231- power of two
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 bool poweroftwo(int n)
