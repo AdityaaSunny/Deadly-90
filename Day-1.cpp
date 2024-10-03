@@ -3,6 +3,10 @@
             //231- power of two
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5059cb030f77a18eb351c9bab00358186f916a44
 #include <bits/stdc++.h>
 using namespace std;
 bool poweroftwo(int n)
