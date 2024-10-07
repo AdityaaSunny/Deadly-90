@@ -25,7 +25,7 @@ int minLength(string s)
 }
 
 int main(){
-    string s= "ABCDER";
+    string s= "ABCDFR";
     cout<<minLength(s);
 
 }
