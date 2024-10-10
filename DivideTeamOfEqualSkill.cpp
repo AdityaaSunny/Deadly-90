@@ -1,5 +1,5 @@
 // 2491. Divide Players Into Teams of Equal Skill
-//leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/?envType=daily-question&envId=2024-10-04
+//https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/?envType=daily-question&envId=2024-10-04
 
 #include <bits/stdc++.h>
 using namespace std;
